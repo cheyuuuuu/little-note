@@ -1,0 +1,8 @@
+1.先用git bash 開啟 目標資料夾
+2.在command line輸入 git innit
+3.再輸入git add .   (代表全部資料都要上傳)
+4.輸入git commit -m "輸入想輸入的"
+5.git remote add origin https://github.com/cheyuuuuu/-.git
+6.git push -u origin master 
+
+all done
